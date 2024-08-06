@@ -25,17 +25,12 @@ Aqui está uma visão geral de como funciona o index no Azure Search:
 
 5. **Manutenção do índice**: O Azure Search oferece recursos para manter e atualizar o índice à medida que seus dados mudam. Isso inclui suporte para indexação incremental, onde apenas os documentos modificados são reindexados, e operações de gerenciamento do esquema do índice, como adicionar novos campos ou modificar configurações existentes.
 Em resumo, o "index" no Azure Search é a estrutura de dados que torna possível realizar pesquisas eficientes em grandes conjuntos de documentos. Ele armazena informações sobre os documentos indexados e fornece funcionalidades avançadas de pesquisa, como filtragem, classificação e análise de texto.
-
-
  
 Nos exemplos temos um documento extraído “estático”, mas pesquisando a fundo percebo um dentre as muitas maneiras de termos uma análise de sentimentos incremental, dentre as formas uma que encontrei é configurar a política de log de um software de mídia social instalado em um VM fazendo a correspondência, e o recurso da nuvem reconhecerá os sentimentos gerados pela rede os requisitará pelo arquivo. Json e a indexação fará essa sincronização automaticamente atualizando os índices.
 https://docs.servicenow.com/pt-BR/bundle/vancouver-servicenow-platform/page/product/configuration-management/task/sgc-cmdb-set-azure-policies.html
-
-
  
 A busca por sentimentos negativos funciona da seguinte forma:
  inputs/Indexdia22.jpg
 
 Neste passo selecionamos o Index e buscamos os depoimentos que foram obtidos por região, no nosso caso a cidade de Chicago. Então ele demonstra as  palavras-chaves, frases-chaves, e sentimentos.
   inputs/Negativo.jpg
-
