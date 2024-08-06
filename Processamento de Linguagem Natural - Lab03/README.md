@@ -12,9 +12,9 @@ Sabendo disso, podemos através da função de [Conversão de fala em texto em t
 
 - **Exemplo da conversão de fala em texto em tempo real realizada**
 
-![Imagem de Exemplo da conversão da fala em texto em tempo real realizada](https://github.com/JPLabussiereF/Processamento-de-Linguagem-Natural-Lab03/blob/main/Pratica/ExploreSpeechStudio/Outputs/transcricao.png?raw=true)
+![Imagem de Exemplo da conversão da fala em texto em tempo real realizada](https://github.com/joserenatofelix/Processamento-de-Linguagem-Natural-Lab03/blob/main/Pratica/ExploreSpeechStudio/Outputs/transcricao.png?raw=true)
 
-Arquivo JSON gerado: [`transcicao.json`](https://github.com/JPLabussiereF/Processamento-de-Linguagem-Natural-Lab03/blob/main/Pratica/ExploreSpeechStudio/Outputs/transcricao.json)
+Arquivo JSON gerado: [`transcicao.json`](https://github.com/joserenatofelix/Processamento-de-Linguagem-Natural-Lab03/blob/main/Pratica/ExploreSpeechStudio/Outputs/transcricao.json)
 
 ## **2. Analise texto com Language Studio:**
 
@@ -32,17 +32,17 @@ Sabendo disso, podemos através da função de [Análise de sentimentos e opini�
 
 **Input:**
 
-![Imagem de Exemplo do texto da Análise de sentimentos e opiniões](https://github.com/JPLabussiereF/Processamento-de-Linguagem-Natural-Lab03/blob/main/Pratica/AnalyzetextwithLanguageStudio/Inputs/textodeexemplo.png?raw=true)
+![Imagem de Exemplo do texto da Análise de sentimentos e opiniões](https://github.com/joserenatofelix/Processamento-de-Linguagem-Natural-Lab03/blob/main/Pratica/AnalyzetextwithLanguageStudio/Inputs/textodeexemplo.png?raw=true)
 
 **Output:**
 
-![Primeira imagem de Exemplo da Análise de sentimentos e opiniões gerada](https://github.com/JPLabussiereF/Processamento-de-Linguagem-Natural-Lab03/blob/main/Pratica/AnalyzetextwithLanguageStudio/Outputs/ResultadosExaminados1.1.png?raw=true)
+![Primeira imagem de Exemplo da Análise de sentimentos e opiniões gerada](https://github.com/joserenatofelix/Processamento-de-Linguagem-Natural-Lab03/blob/main/Pratica/AnalyzetextwithLanguageStudio/Outputs/ResultadosExaminados1.1.png?raw=true)
 
-![Segunda imagem de Exemplo da Análise de sentimentos e opiniões gerada](https://github.com/JPLabussiereF/Processamento-de-Linguagem-Natural-Lab03/blob/main/Pratica/AnalyzetextwithLanguageStudio/Outputs/ResultadosExaminados1.2.png?raw=true)
+![Segunda imagem de Exemplo da Análise de sentimentos e opiniões gerada](https://github.com/joserenatofelix/Processamento-de-Linguagem-Natural-Lab03/blob/main/Pratica/AnalyzetextwithLanguageStudio/Outputs/ResultadosExaminados1.2.png?raw=true)
 
-![Terceira imagem de Exemplo da Análise de sentimentos e opiniões gerada](https://github.com/JPLabussiereF/Processamento-de-Linguagem-Natural-Lab03/blob/main/Pratica/AnalyzetextwithLanguageStudio/Outputs/ResultadosExaminados1.3.png?raw=true)
+![Terceira imagem de Exemplo da Análise de sentimentos e opiniões gerada](https://github.com/joserenatofelix/Processamento-de-Linguagem-Natural-Lab03/blob/main/Pratica/AnalyzetextwithLanguageStudio/Outputs/ResultadosExaminados1.3.png?raw=true)
 
-Arquivo JSON gerado: [`ResultadosExaminados.json`](https://github.com/JPLabussiereF/Processamento-de-Linguagem-Natural-Lab03/blob/main/Pratica/AnalyzetextwithLanguageStudio/Outputs/ResultadosExaminados1.json)
+Arquivo JSON gerado: [`ResultadosExaminados.json`](https://github.com/joserenatofelix/Processamento-de-Linguagem-Natural-Lab03/blob/main/Pratica/AnalyzetextwithLanguageStudio/Outputs/ResultadosExaminados1.json)
 
 ## Referências
 
